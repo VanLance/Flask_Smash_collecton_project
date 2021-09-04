@@ -33,6 +33,10 @@ ul#horizontal-list a:nth-last-child(1){
 
 /*  End of Nav Styles  */
 
+.pic img{
+    margin-left: 100vh;
+}
+
 /* Profile Styles Section */
 .hero-section{
     height: 95vh;
